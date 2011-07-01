@@ -1,0 +1,5 @@
+; $Id$
+name = oxgoocal
+description = Updates Google Calendar
+package = oxbridge
+core = 6.x
